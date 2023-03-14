@@ -26,6 +26,6 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 
-![Screen Shot 2023-03-13 at 10 52 22 PM](https://user-images.githubusercontent.com/124204327/224881683-43b7ecdf-3478-4eb9-b107-0885d095bb71.png)
+
 
 
