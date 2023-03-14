@@ -5,10 +5,8 @@ The application is quite simple and to the point there are not many added featur
 To begin you are asked to stay inside the parameters set for character length and then from there you have the freedom to choose the style of password you would like.
 
 
+# Acceptance Criteria
 
-## Acceptance Criteria
-
-```
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
@@ -25,10 +23,7 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-
-https://user-images.githubusercontent.com/124204327/224882318-478275fc-fb7a-470b-9d08-90519b5255f9.png
+![Screen Shot 2023-03-13 at 10 52 22 PM](https://user-images.githubusercontent.com/124204327/224883789-2f1f3170-19bf-4314-a160-52670130cf69.png)
 
 LIVE SITE:
 https://daniel-sykes1.github.io/Secret-Stash/
-
-
